@@ -1,2 +1,2 @@
 # Segmentor-free
-Segmentor-free Training Data Generation for Medical Segmentation
+Only for the reviewer to check the code detail
